@@ -2,7 +2,7 @@
 
 - firebase a sob setup kore nite hobe
 
-- then font end a akta button rakhte hobe jeta firbase login k trigger korbe
+- then font end a akta button rakhte hobe jeta firbase login k trigger korbe (Login with google)
 
 - login popup ashle seta successfully login done hoile j response data ta ashbe oi data ta backend a pathay dibo
 
@@ -10,7 +10,7 @@
 
 - ai controller first a check korbe ai gmail dea kono user ase kina
 
-- jodi thake jehutu aita alada controller so amra aikhane password verification er kono issue rakhbo na. just normally id ta k tokenize kore cookie te set korbo and normally onno login handle korar moto sob data send kore dibo
+- jodi thake, jehutu aita alada controller so amra aikhane password verification er kono issue rakhbo na. just normally id ta k tokenize kore cookie te set korbo and normally onno login handle korar moto sob data send kore dibo
 
 - but for the first time jodi gmail login dey tokhn kintu dekha jabe ai email dea kono user nei
 
